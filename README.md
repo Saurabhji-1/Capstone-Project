@@ -1,6 +1,6 @@
 # _Hi, I'm Saurabh! 👋 This is my Capston Project 🎯!_
 
-# 🦷 Forensic Dentistry: Using Dental Metrics to Predict Gender
+## 🦷 Forensic Dentistry: Using Dental Metrics to Predict Gender
 
 
 
