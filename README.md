@@ -119,7 +119,6 @@ jupyter notebook
 
 ---
 
-📌 **Author:** _**Saurabh Sharma**_  
-
-📌 **GitHub Repository:** _https://github.com/Saurabhji-1?tab=repositories_
+## 📌 **Author:** _**Saurabh Sharma**_ 
+## 📌 **GitHub Repository:** [My GitHub Profile](https://github.com/Saurabhji-1)
 
